@@ -340,7 +340,7 @@ Type: Win32 EXE
 SHA-256: d22587f1544ece645031bc25697558ba175742e916e95c677a8ac5cedabe8bfc
 ```
 
-### UA-Cyber-SHIELD-Setup-0.0.13.exe
+### UA-Cyber-SHIELD-Setup-0.0.13.exe(TODOS LOS QUE ME PASASTE)
 ```
 Scanned: 2022-11-04
 Detections: 4/66
@@ -354,7 +354,7 @@ Features: peexe, runtime-modules, long-sleeps, direct-cpu-clock-access, overlay
 
 ---
 
-## CAPA 8 - HASHS COMPLETOS (TODOS LOS QUE ME PASASTE)
+## CAPA 8 - HASHS COMPLETOS 
 
 ### Hashes principales (comunicación directa con IP):
 ```
